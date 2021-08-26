@@ -61,6 +61,6 @@ function leapChecker(year){
         months[1] = 29;
     }
     else{
-        months[1] = 28;
+        months[1] = 28; 
     }
 }
