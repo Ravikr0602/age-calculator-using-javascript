@@ -126,3 +126,14 @@ form{
       font-weight: 900;
       font-size: 2.5rem;
   }
+  @media screen and (max-width:768px) {
+    .result_box
+    {
+      width: 94%;
+      margin-top: 30px;
+    }
+    .box
+    {
+      width: 30%;
+    }
+  }
